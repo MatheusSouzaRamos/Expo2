@@ -11,4 +11,4 @@ Outro ponto importante é que o programa também lida com números negativos. Ne
 
 A implementação utiliza métodos privados do tipo List<> responsáveis por agrupar o valor obtido na lista.
 
-Implementação futura: Conversão binária.
+Como melhoria futura, está prevista a adição da conversão binária direta, ampliando a utilidade do projeto tanto para fins acadêmicos quanto para aplicações práticas.
